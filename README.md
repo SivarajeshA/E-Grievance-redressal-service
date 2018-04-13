@@ -1,6 +1,6 @@
 # E-Grievance-redressal-service
 # Description
-E-Grievance redressal service is a online complaint portal, where public can register their complaints with supporting proofs and then the complaint is then forwarded to the appropriate department's government officials. The government officials have their own login in the system, they can respond to the complaints and the response can be viewed by the public, which helps the government bodies to know and rectify the issues in their department and also provides good interaction between public and goverment body.
+E-Grievance redressal service is an online complaint registration and service portal, where public can register their complaints with supporting proofs and then the complaint is then forwarded to the appropriate department's government officials. The government officials have their own login in the system, they can respond to the complaints and the response can be viewed by the public, which helps the government bodies to know and rectify the issues in their department.
 
 # Objective
 •	To provide a new forum that facilitates the interaction between public and government bodies. 
